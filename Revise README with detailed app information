@@ -1,0 +1,268 @@
+# ArcHub---Smart-value-router-MVP-on-Arc.-A-simple-web-app-that-routes-transaction-accross-chain.
+ArcHub pro
+Build a world-class Web3 Super Dashboard called "ARC Nexus".
+
+Goal:
+
+Create a premium Web3 identity, portfolio, social reputation, transaction explorer and Arc ecosystem dashboard.
+
+Tech Stack:
+
+- Next.js 15 App Router
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Wagmi
+- Viem
+- RainbowKit
+- React Query
+- Ethers v6
+- Arc App Kit
+- Zustand
+- Recharts
+
+Networks:
+
+1. Arc Testnet
+   Chain ID: 5042002
+   RPC: https://rpc.testnet.arc.network
+
+2. Ethereum Sepolia
+
+3. Arbitrum Sepolia
+
+4. Base Sepolia
+
+5. Optimism Sepolia
+
+Wallet Support:
+
+- MetaMask
+- WalletConnect
+- Coinbase Wallet
+- Rabby Wallet
+
+Features:
+
+=========================
+MULTI WALLET HUB
+
+- Connect wallet
+- Disconnect wallet
+- Auto reconnect
+- Network switcher
+- Wallet avatar
+- Copy address
+- QR code
+
+=========================
+PORTFOLIO DASHBOARD
+
+Display:
+
+- Wallet Address
+- Network
+- Native Balance
+- USDC Balance
+- Total Portfolio Value
+- Asset Breakdown
+- Network Distribution
+
+Charts:
+
+- Portfolio Pie Chart
+- Activity Chart
+- Network Allocation Chart
+
+=========================
+ARC UNIFIED BALANCE
+
+Use Arc App Kit.
+
+Show:
+
+- Confirmed Balance
+- Pending Balance
+- Source Breakdown
+- Deposit Sources
+- Spend Sources
+
+=========================
+TRANSACTION EXPLORER
+
+Input:
+
+Transaction Hash
+
+Output:
+
+- Status
+- Block Number
+- Timestamp
+- Gas Used
+- Sender
+- Receiver
+- Network
+- Explorer Link
+
+=========================
+SOCIAL IDENTITY HUB
+
+Connect:
+
+- Twitter/X
+- Discord
+- GitHub
+- LinkedIn
+- Email
+
+Display:
+
+- Verification Status
+- Profile Completion
+- Connected Accounts
+- Social Reputation
+
+=========================
+WEB3 REPUTATION SCORE
+
+Calculate score based on:
+
+- Wallet Age
+- Transaction Count
+- Network Diversity
+- Social Connections
+- Portfolio Activity
+
+Display:
+
+Trust Score
+Level
+Achievements
+
+=========================
+NFT PROFILE
+
+Display:
+
+- NFT Avatar
+- NFT Count
+- Collections
+- Floor Values
+
+=========================
+AIRDROP CHECKER
+
+Check:
+
+- Wallet Activity
+- Eligibility Rules
+- Potential Campaigns
+
+=========================
+SECURITY CENTER
+
+Display:
+
+- Active Sessions
+- Wallet Permissions
+- Token Approvals
+- Risk Alerts
+
+=========================
+AI INSIGHTS
+
+Generate:
+
+- Portfolio Summary
+- Activity Analysis
+- Risk Level
+- Suggested Actions
+
+=========================
+GAMIFICATION
+
+XP System
+
+Achievements:
+
+- First Transaction
+- Multi-chain User
+- Social Verified
+- Portfolio Builder
+
+Leaderboard
+
+=========================
+PAGES
+
+/dashboard
+/portfolio
+/transactions
+/social
+/reputation
+/nft
+/airdrops
+/security
+/ai-insights
+/settings
+
+=========================
+UI DESIGN
+
+Premium Design:
+
+- Dark Theme
+- Glassmorphism
+- Animated Gradients
+- Framer Motion Animations
+- Responsive Mobile Layout
+- Sidebar Navigation
+- Modern Charts
+
+=========================
+COMPONENTS
+
+Navbar
+Sidebar
+WalletConnect
+NetworkSwitcher
+PortfolioCard
+BalanceCard
+UnifiedBalanceCard
+TransactionChecker
+SocialConnect
+NFTProfile
+TrustScore
+SecurityCenter
+AIInsights
+Leaderboard
+AchievementCard
+
+=========================
+CODE REQUIREMENTS
+
+- Strict TypeScript
+- Reusable Components
+- Clean Architecture
+- Production Ready
+- Error Handling
+- Loading States
+- Empty States
+- Mobile Responsive
+
+=========================
+OUTPUT
+
+Generate every file completely.
+
+Do not use placeholders.
+
+Provide full source code.
+
+Ready for:
+
+npm install
+npm run dev
+
+Ready for GitHub and Vercel deployment.
